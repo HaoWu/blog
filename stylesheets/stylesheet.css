@@ -158,7 +158,7 @@ p img {
 }
 
 pre, code {
-  width: 100%;
+  width: auto;
   color: #222;
   background-color: #fff;
 
@@ -370,7 +370,9 @@ Full-Width Styles
   right: 0;
 }
 
-
+article p.date {
+    font-style: italic;
+}
 
 /*******************************************************************************
 Small Device Styles
