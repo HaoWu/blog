@@ -364,6 +364,10 @@ Full-Width Styles
 
 #footer_wrap {
   background: #212121;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 
